@@ -4,7 +4,7 @@
 Hey, I am an alumnus student from Saint Rose at Albany, NY, had a master’s degree in Information Technology.
 I have a passion for problem solving and Drawing Insights from Data with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
-🔭 I’m currently working on
+### 🔭 I’m currently working on
 
   •	ML Projects (Intermediate)
 
@@ -12,7 +12,7 @@ I have a passion for problem solving and Drawing Insights from Data with a keen 
 
   •	APIs using python
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 
   •	Python 
 
@@ -22,13 +22,13 @@ I have a passion for problem solving and Drawing Insights from Data with a keen 
 
   •	Machine Learning
 
-📫 Where else you can find me:
+### 📫 Where else you can find me:
 
   •	LinkedIn : https://www.linkedin.com/in/rpvuppala/
 
   •	HackerRank: ravivuppala
 
-📫 How to reach me:
+### 📫 How to reach me:
 
   •	Shoot me a mail at ravipvuppala@gmail.com!
 
