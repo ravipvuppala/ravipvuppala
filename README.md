@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hey, I am an alumnus student from Saint Rose at Albany, NY, had a master’s degree in Information Technology.
+Hey, I am an alumnus from Saint Rose at Albany, NY, had a master’s degree in Information Technology.
 I have a passion for problem solving and Drawing Insights from Data with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
 ### 🔭 I’m currently working on
