@@ -8,8 +8,6 @@ I have a passion for problem solving and Drawing Insights from Data with a keen 
 
   •	ML Projects (Intermediate)
 
-  •	ETL Projects (Intermediate)
-
   •	APIs using python
 
 ### 🌱 I’m currently learning
@@ -24,7 +22,7 @@ I have a passion for problem solving and Drawing Insights from Data with a keen 
 
 ### 📫 Where else you can find me:
 
-  •	LinkedIn : https://www.linkedin.com/in/rpvuppala/
+  •	LinkedIn : https://www.linkedin.com/in/ravipvuppala/
 
   •	HackerRank: ravivuppala
 
