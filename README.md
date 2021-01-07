@@ -20,7 +20,7 @@ I have a passion for problem solving and Drawing Insights from Data with a keen 
 
   •	Machine Learning
 
-### 📫 Where else you can find me:
+### 📫 Find me elsewhere
 
   •	LinkedIn : https://www.linkedin.com/in/ravipvuppala/
 
